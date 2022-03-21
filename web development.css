@@ -1,0 +1,10 @@
+@media screen and (max-width: 320px) {
+  .report {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .report {
+    width: 100%;
+  }
+}
